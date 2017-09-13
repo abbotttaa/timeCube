@@ -1,0 +1,76 @@
+body {
+		background-color: #12E4C1;
+}
+h5 {
+		color:red;
+		font-size: 25px;
+}
+#cubed {
+	background-image: url(cubed.jpg);
+	width: 50px;
+
+}
+.boldClass {
+	font-weight: bold;
+	font-size: 185px;
+}
+.geneRay {
+	font-variant: small-caps;
+	font-size: 120px;
+}
+.wagerMeThis {
+	font-style: oblique;
+	font-size: 17px;
+	color: green;
+}
+.stitch {
+	font-size: 95px;
+	font-style: arial;
+	color: orange;
+}
+.dotEye {
+	font-size: 50px;
+
+}
+.winkyface {
+	color: green;
+}
+#marg1 {
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.beamSword {
+	font-size: 25px;
+	color: blue;
+	border: double;
+	display: inline;
+	padding: 5px;
+}
+.bobomb {
+	font-size: 15px;
+	color: red;
+	border: double;
+	display: inline;
+	padding: 5px;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: forestgreen;
+}
+.mrSaturn {
+	position: relative;
+    display: inline-block;
+}
+.fcNair {
+	border: 3px solid black;
+	padding: 1px;
+}
+.shineBair {
+	font-stretch: 300px;
+	font-size: 30px;
+	/*wait, nothing supports dfont stretch*/
+}
